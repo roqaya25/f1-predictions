@@ -1,0 +1,7 @@
+f1_cache/
+
+venv/
+
+__pycache__/
+*.pkl
+*.sqlite
